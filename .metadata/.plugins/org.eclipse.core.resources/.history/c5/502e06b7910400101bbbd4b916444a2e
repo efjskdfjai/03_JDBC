@@ -1,0 +1,11 @@
+package edu.kh.jdbc.run;
+
+import edu.kh.jdbc.project.IOService;
+
+public class TestRun {
+
+	public static void main(String[] args) {
+		
+		IOService service = new IOService();
+	}
+}

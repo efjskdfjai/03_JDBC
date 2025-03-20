@@ -1,0 +1,12 @@
+package edu.kh.jdbc.run;
+
+import edu.kh.jdbc.view.Userview;
+
+public class Run {
+
+	public static void main(String[] args) {
+		Userview view = new Userview();
+		view.mainMenu();
+	}
+
+}

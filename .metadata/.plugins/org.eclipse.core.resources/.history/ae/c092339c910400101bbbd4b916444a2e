@@ -1,0 +1,9 @@
+package edu.kh.jdbc.run;
+
+public class TestRun {
+
+	public TestRun() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

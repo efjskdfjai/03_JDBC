@@ -1,0 +1,9 @@
+package edu.kh.jdbc.common;
+
+public class createXMLFile {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

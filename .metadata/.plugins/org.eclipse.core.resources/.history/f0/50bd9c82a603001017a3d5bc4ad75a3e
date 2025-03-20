@@ -1,0 +1,17 @@
+package edu.kh.jdbc.common;
+
+
+// 연습용
+public class LoadXMLFile {
+
+	public static void main(String[] args) {
+		
+		// XML 파일 읽어오기 (FileInputStream, Properties)
+		try {
+			
+		} catch (Exception e) {
+			
+		}
+	}
+
+}

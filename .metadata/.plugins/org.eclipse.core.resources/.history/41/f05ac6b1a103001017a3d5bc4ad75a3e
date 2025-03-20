@@ -1,0 +1,24 @@
+package edu.kh.jdbc.common;
+
+public class createXMLFile {
+
+	public static void main(String[] args) {
+		// XML (eXtensible MArkup Language) : 단순화된 데이터 기술 형식
+		
+		// XML에 저장되는 데이터 형식 Key : Values (Map)
+		// -> Key에 , Values 모두 String(문자열) 인식
+		
+		
+		// XML 파일을 읽고 쓴느데 특화된 메서드 제공
+		
+		// - MAP의 후손 클래스
+		try {
+			Scanner sc = new Scanner(System.in);
+			
+			Properties prop = new Properties();
+			
+			System.out.print("생성할 파일 이름 : );
+		}
+	}
+
+}
