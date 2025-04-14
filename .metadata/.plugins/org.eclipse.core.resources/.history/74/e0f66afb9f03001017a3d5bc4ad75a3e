@@ -1,9 +1,0 @@
-package edu.kh.jdbc.common;
-
-public class createXMLFile {
-
-	public createXMLFile() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

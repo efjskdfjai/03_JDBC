@@ -1,9 +1,0 @@
-package edu.kh.jdbc.project;
-
-public class IOService {
-
-	public IOService() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

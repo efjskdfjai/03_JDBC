@@ -1,8 +1,0 @@
-package edu.kh.jdbc;
-
-public class JDBCExample7 {
-
-	public static void main(String[] args) {
-		
-	}
-}

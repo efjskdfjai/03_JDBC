@@ -1,9 +1,0 @@
-package edu.kh.jdbc;
-
-public class JDBCExample4 {
-
-	public JDBCExample4() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
